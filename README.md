@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-<table><tr><td valign="top" width="50%">
+<table><tr style="border:none"><td style="border:none" valign="top" width="50%">
 **Personal Details:** <br>● Experience: 5 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> **Summary:** <br>Experienced Full-Stack Developer with over 5 years of expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
 
-</td><td valign="top" width="50%">
+</td><td style="border:none" valign="top" width="50%">
   
 ![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1enR3aTY1bDVrZGVncXF0NDF3Z2t3bGI4aHJqaXkwb254ZTM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)  
 
@@ -13,7 +13,7 @@
 
 
 ## 💻 My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr style="border:none"><td style="border:none" valign="top" width="33%">
 
 
 
@@ -38,7 +38,7 @@
 <a href="https://www.capacitorjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td style="border:none" valign="top" width="33%">
 
 
 
@@ -54,7 +54,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td style="border:none" valign="top" width="33%">
 
 
 
@@ -100,11 +100,8 @@
 <br/>  
 
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=assadshahbaz&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=assadshahbaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=assadshahbaz&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
