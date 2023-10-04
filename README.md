@@ -95,7 +95,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=assadshahbaz&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=assadshahbaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
