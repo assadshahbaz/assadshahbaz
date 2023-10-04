@@ -1,6 +1,13 @@
 # 💫 About Me:
+
+<table><tr><td valign="top" width="50%">
 **Personal Details:** <br>● Experience: 5 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> **Summary:** <br>Experienced Full-Stack Developer with over 5 years of expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
 
+</td><td valign="top" width="50%">
+  
+![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1enR3aTY1bDVrZGVncXF0NDF3Z2t3bGI4aHJqaXkwb254ZTM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+</td></tr></table>  
 
 <br/>  
 
@@ -69,14 +76,14 @@
 
 ## 🌐 Connect with me  
 <div align="center">
-<a href="https://dev.to/assadshahbaz" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/assadshehbaz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/assadshahbaz" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/assadshahbaz" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/8617894/assad-shahbaz" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -95,9 +102,9 @@
 
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=assadshahbaz&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=assadshahbaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=assadshahbaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=assadshahbaz&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
