@@ -2,7 +2,7 @@
 
 <table style="border:0 solid white;">  
   <tr style="border: 0"><tbody><td style="border:0" valign="top" width="50%"> 
-Personal Details: <br/> ● Experience: 5 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> Summary: <br>Experienced Full-Stack Developer with over 5 years of expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
+Personal Details: <br/> ● Experience: 6 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> Summary: <br>Experienced Full-Stack Developer with over 5 years of expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
     </td><td style="border:0;" valign="top" width="50%">
   
 ![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1enR3aTY1bDVrZGVncXF0NDF3Z2t3bGI4aHJqaXkwb254ZTM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
