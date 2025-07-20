@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 
 <table style="border:0 solid white;">  
   <tr style="border: 0"><tbody><td style="border:0" valign="top" width="50%"> 
-Personal Details: <br/> ● Experience: 6 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> Summary: <br>Experienced Full-Stack Developer with over 5 years of expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
+Personal Details: <br/> ● Working: Since 2018 years<br>● LinkedIn: https://www.linkedin.com/in/assadshehbaz/<br><br> Summary: <br>Experienced Full-Stack Developer with extensive expertise in developing user interfaces, frontend and<br>backend development, system upgrades, and logical programming. Proficient in a wide range of technologies,<br>including Angular, TypeScript, JavaScript, Nodejs, and Expressjs. Developed user-centric solutions for organizations<br>internationally. Adept at leading teams, implementing agile methodologies, and delivering exceptional results.<br>Proven track record of translating complex business requirements into efficient, scalable solutions.
     </td><td style="border:0;" valign="top" width="50%">
   
 ![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh1enR3aTY1bDVrZGVncXF0NDF3Z2t3bGI4aHJqaXkwb254ZTM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -11,7 +11,7 @@ Personal Details: <br/> ● Experience: 6 years<br>● LinkedIn: https://www.lin
 
 <br/>  
 
-## 🌐 Connect with me  
+## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/assadshehbaz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -36,7 +36,7 @@ Personal Details: <br/> ● Experience: 6 years<br>● LinkedIn: https://www.lin
 
 <br/>  
 
-## 💻 My Skill Set  
+## My Skill Set  
 <table><tr style="border:0px;"><td style="border:0px" valign="top" width="33%">
 
 
@@ -100,13 +100,10 @@ Personal Details: <br/> ● Experience: 6 years<br>● LinkedIn: https://www.lin
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=assadshahbaz&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 [![](https://visitcount.itsvg.in/api?id=assadshahbaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=assadshahbaz&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=assadshahbaz&limit=5&theme=dark&combine_all_yearly_contributions=true)
