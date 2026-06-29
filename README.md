@@ -31,4 +31,4 @@ I care about design patterns and SOLID principles — not as buzzwords, but beca
 
 ### Find me elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/assadshehbaz) · [Upwork](https://www.upwork.com/freelancers/~01407349bc28ac5214) · [Medium](https://medium.com/assadshahbaz) · [Dev.to](https://dev.to/assadshahbaz) · [Stack Overflow](https://stackoverflow.com/users/8617894/assad-shahbaz)
+[LinkedIn](https://www.linkedin.com/in/assadshehbaz) · [Upwork](https://www.upwork.com/freelancers/~01407349bc28ac5214) · [Medium](https://medium.com/@assadshahbaz) · [Dev.to](https://dev.to/assadshahbaz) · [Stack Overflow](https://stackoverflow.com/users/8617894/assad-shahbaz)
