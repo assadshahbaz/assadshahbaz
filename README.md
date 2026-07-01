@@ -18,13 +18,12 @@ _I care about design patterns and SOLID principles not as buzzwords, but because
 
 ## Stack
 
-**Core:** Angular · Node.js · Express.js · Sails.js · NestJS · MongoDB · TypeScript
-
-**Also reach for:** Firebase · Python · PostgreSQL · MySQL
-
-**UI:** HTML  · Pug · Bootstrap · CSS · Tailwindcss
-
-**Tooling:** Docker · GitLab CI · GitHub Actions · Stripe · GoCardless · Postman · Jira
+- **Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3, Tailwind, Bootstrap, UI-Router.
+- **Backend:** Node.js, Nest.js , Express.js, Sails.js, RESTful APIs.
+- **Unit testing:** Sinon, Mocha, and Chai.
+- **Databases:** MySQL, MongoDB, Firebase.
+- **DevOps & Tools:** GitHub, GitLab, Docker, Jira, Postman.
+- **Practices:** Agile, Scrum, Design Patterns, Design Principles, System Design, Code Reviews, Technical Documentation.
 
 ---
 ## Projects
