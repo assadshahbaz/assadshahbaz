@@ -34,7 +34,16 @@ Web-based ticketing app built with Angular 19, Node.js, MongoDB, and Elasticsear
 **Stack:** Angular · Node.js · MongoDB · Elasticsearch · Docker · Swagger
  
 [View Repository →](https://github.com/assadshahbaz/ticketmaster)
- 
+
+---
+
+### Design Patterns in Practice
+In-depth pattern reference with production-grounded examples in Angular, Node.js, and TypeScript. Covers creational, structural, and behavioural patterns with Q&A notes from working through each one.
+
+**Stack:** TypeScript · Node.js
+
+[View Repository →](https://gitlab.com/assadshahbaz/design-patterns)
+
 ---
 
 ## Live Work
