@@ -26,6 +26,32 @@ _I care about design patterns and SOLID principles not as buzzwords, but because
 - **Practices:** Agile, Scrum, Design Patterns, Design Principles, System Design, Code Reviews, Technical Documentation.
 
 ---
+
+## Live Work
+ 
+### VeryConnect — Membership Platform
+SaaS membership platform used by 150+ organisations globally to manage memberships, events, payments, and access control. Built with Angular, Node.js, Sails.js, MongoDB, Stripe, and GoCardless.
+
+*Production platform — [veryconnect.com](https://www.veryconnect.com)*
+
+---
+
+### PEOPLE-i — HR Management System
+Enterprise cloud-based HRMS used by global organisations including Unilever, 
+Philips, and Nielsen. Delivered a modular admin panel and CEO-level reporting 
+dashboards built with Angular.
+
+*Login required — [peoplei.tech](https://peoplei.tech)*
+
+---
+
+### Domicilio30
+Restaurant and order management system. Built for managing menus, orders, and restaurant operations.
+ 
+[domicilio30.it →](https://www.domicilio30.it)
+ 
+---
+
 ## Projects
 
 ### Ticketmaster Application
@@ -44,22 +70,6 @@ In-depth pattern reference with production-grounded examples in Angular, Node.js
 
 [View Repository →](https://gitlab.com/assadshahbaz/design-patterns)
 
----
-
-## Live Work
- 
-### VeryConnect — Membership Platform
-SaaS membership platform used by 150+ organisations globally to manage memberships, events, payments, and access control. Built with Angular, Node.js, Sails.js, MongoDB, Stripe, and GoCardless.
-
-*Production platform — [veryconnect.com](https://www.veryconnect.com)*
-
----
-
-### Domicilio30
-Restaurant and order management system. Built for managing menus, orders, and restaurant operations.
- 
-[domicilio30.it →](https://www.domicilio30.it)
- 
 ---
 
 ## Articles
