@@ -1,4 +1,4 @@
-# Assad Shahbaz
+# Muhammad Assad Shehbaz
 
 **Full-Stack Developer · SaaS & B2B Platforms**
 
@@ -6,26 +6,14 @@ I build web applications that are meant to last. Scalable architecture, clean co
 
 _I care about design patterns and SOLID principles not as buzzwords, but because code that's easy to reason about is code that teams can own long-term. Every project I ship is one the next developer can walk into without a map._
 
-
-**What I work on**
-
-- **SaaS & multi-tenant platforms** — role-based access, tenant isolation, subscription flows
-- **Third-party integrations** — payment gateways (Stripe, PayPal, GoCardless), external APIs, OAuth & secure auth
-- **Internal tools & dashboards** — data-heavy interfaces that teams actually want to use
-- **API design** — RESTful services built with maintainability and performance in mind
-
----
-
 ## Stack
 
-- **Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3, Tailwind, Bootstrap, UI-Router.
-- **Backend:** Node.js, Nest.js , Express.js, Sails.js, RESTful APIs.
+- **Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3, Tailwind, Bootstrap.
+- **Backend:** Node.js (Nest.js, Express.js, Sails.js), RESTful APIs.
 - **Unit testing:** Sinon, Mocha, and Chai.
-- **Databases:** MySQL, MongoDB, Firebase.
+- **Databases & Search:** MySQL, MongoDB, Firebase, Elasticsearch.
 - **DevOps & Tools:** GitHub, GitLab, Docker, Jira, Postman.
 - **Practices:** Agile, Scrum, Design Patterns, Design Principles, System Design, Code Reviews, Technical Documentation.
-
----
 
 ## Live Work
  
@@ -34,24 +22,16 @@ SaaS membership platform used by 150+ organisations globally to manage membershi
 
 *Production platform — [veryconnect.com](https://www.veryconnect.com)*
 
----
-
 ### PEOPLE-i — HR Management System
-Enterprise cloud-based HRMS used by global organisations including Unilever, 
-Philips, and Nielsen. Delivered a modular admin panel and CEO-level reporting 
-dashboards built with Angular.
+Enterprise cloud-based HRMS used by global organisations. Delivered a modular admin panel and CEO-level reporting dashboards built with Angular.
 
 *Login required — [peoplei.tech](https://peoplei.tech)*
-
----
 
 ### Domicilio30
 Restaurant and order management system. Built for managing menus, orders, and restaurant operations.
  
 [domicilio30.it →](https://www.domicilio30.it)
  
----
-
 ## Projects
 
 ### Ticketmaster Application
@@ -61,24 +41,27 @@ Web-based ticketing app built with Angular 19, Node.js, MongoDB, and Elasticsear
  
 [View Repository →](https://github.com/assadshahbaz/ticketmaster)
 
----
 
 ### Design Patterns in Practice
-In-depth pattern reference with production-grounded examples in Angular, Node.js, and TypeScript. Covers creational, structural, and behavioural patterns with Q&A notes from working through each one.
+In-depth pattern reference with production-grounded examples in TypeScript. Covers creational, structural, and behavioural patterns with Q&A notes from working through each one.
 
 **Stack:** TypeScript · Node.js
 
 [View Repository →](https://gitlab.com/assadshahbaz/design-patterns)
 
----
+## Publications & Writing
 
-## Articles
- 
-#### [Data Science Roles and Tools](https://www.linkedin.com/pulse/data-science-roles-tools-assad-shahbaz-psv8e)
+### Structured Data Extraction from Real Estate Documents (MSc dissertation)
+An end-to-end pipeline that classifies ~4,000 heterogeneous property documents and extracts 35 structured attributes using an LLM (DeepSeek R1). arXiv preprint.
+
+[Read on arXiv](https://arxiv.org/abs/2607.06012)
+
+### Data Science Roles and Tools
 An overview of the key roles in the data science ecosystem and the tools each discipline relies on. Published on LinkedIn.
- 
----
 
-### Find me elsewhere
+[Read on LinkedIn](https://www.linkedin.com/pulse/data-science-roles-tools-assad-shahbaz-psv8e)
 
-[LinkedIn](https://www.linkedin.com/in/assadshehbaz) · [Upwork](https://www.upwork.com/freelancers/~01407349bc28ac5214) · [shehbaz.assad@gmail.com](mailto:shehbaz.assad@gmail.com)
+
+## Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/assadshehbaz) · [shehbaz.assad@gmail.com](mailto:shehbaz.assad@gmail.com)
